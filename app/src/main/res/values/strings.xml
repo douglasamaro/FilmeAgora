@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">FilmeAgora</string>
+
+    <!--    facebook SDK-->
+    <string name="facebook_app_id">3091853287794185</string>
+    <string name="fb_login_protocol_scheme">fb3091853287794185</string>
+    <string name="facebook_client_token">e82a28b52b63bd23bcccb73a39a51120</string>
 </resources>
